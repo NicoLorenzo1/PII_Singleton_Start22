@@ -2,8 +2,10 @@
 
 namespace Library
 {
+    
     public class Greeter
     {
+        /*
         private Greeter()
         {
             // Intentionally left blank
@@ -23,7 +25,7 @@ namespace Library
                 return instance;
             }
         }
-
+*/
         public void SayHiToTheWorld()
         {
             Console.WriteLine("Hello World!");
